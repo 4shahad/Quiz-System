@@ -1,0 +1,9 @@
+
+  .quizInfo {
+    width: 90%;
+    display: flex;
+    justify-content: space-between;
+    text-transform: uppercase;
+    margin: 10px;
+  } 
+  

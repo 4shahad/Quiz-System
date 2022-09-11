@@ -1,0 +1,42 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  stroke-width: thin;
+}
+.App {
+  align-content: center;
+  text-align: center;
+  border: 4px solid rgba(87, 87, 86, 0.557);
+  margin: 5px;
+  padding: 5px;
+  margin-left: 5px;
+  margin-right: 5px;
+  min-height: 95vh;
+  border-radius: 5px;
+}
+
+.header{
+  color: lightgrey;
+}
+.borderr{
+  border:2px  solid rgba(73, 73, 73, 0.976);
+  border-radius: 10px; 
+}
+.form{
+  padding: 10px;
+  margin-top: 3px;
+  margin-bottom: 3px;
+}
+.sampStyle{
+  color: rgb(249, 248, 248);
+  background-color: rgb(156, 109, 97);
+text-transform: capitalize;
+
+
+}
+.pandding{
+  padding: 20;
+  margin-top: 100px;
+  margin-bottom: 100px;
+}
