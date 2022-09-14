@@ -12,7 +12,7 @@ function App() {
   const[questions,setQuestions]=useState()
   const[score,setScore]=useState(0)
 
- 
+ //Hi
 
   
   const fetchQuestions = async (categoryList,difficultyList) => {
